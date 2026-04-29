@@ -1,0 +1,16 @@
+{
+  "name": "joke-generator",
+  "version": "1.0.0",
+  "description": "A random joke generator using an external API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["jokes", "api", "generator", "dad-jokes"],
+  "author": "noahnemo-rgb",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
